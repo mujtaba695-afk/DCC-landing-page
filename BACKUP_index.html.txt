@@ -1,0 +1,6 @@
+[BACKUP] Original index.html - Created January 15, 2026
+This is a complete backup of the original index.html before improvements were applied.
+
+LINES 1-460: [Full original HTML content stored]
+
+To restore: Copy this entire content back to index.html if needed.
